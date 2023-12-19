@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nithin-krishna14
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python django
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
